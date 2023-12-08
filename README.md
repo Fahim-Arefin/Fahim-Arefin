@@ -1,4 +1,4 @@
-<h3 align="center">Web Developer</h3>
+![Header](./banner.png)
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 

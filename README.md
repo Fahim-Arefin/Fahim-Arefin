@@ -15,7 +15,7 @@ I am a dependable and committed individual with a keen interest and a firm under
 
 
 
-<h1 align="center">My Stats:</h1>
+<h2 align="center">My Stats:</h2>
 
 <p align="center" style="margin-top: 200px; margin-bottom: 200px;">
   <a href="https://git.io/streak-stats">
@@ -23,10 +23,7 @@ I am a dependable and committed individual with a keen interest and a firm under
   </a>
 </p>
 
-
-
-
-<h1 align="center">My Skills:</h1>
+<h2 align="center">My Skills:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">

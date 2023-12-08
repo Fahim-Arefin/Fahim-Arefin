@@ -1,4 +1,10 @@
-<img src="./banner.png" alt="Header" height="300px" width="100%" />
+<img src="./banner.png" alt="Header" width="100%" />
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim-Arefin&theme=react&hide_border=true&border_radius=0&card_width=483" alt="GitHub Streak" />
+  </a>
+</div>
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
@@ -17,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-arefin&show_icons=true&locale=en" alt="fahim-arefin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-arefin&" alt="fahim-arefin" /></p>
+

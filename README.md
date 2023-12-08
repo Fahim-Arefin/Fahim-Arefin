@@ -1,14 +1,16 @@
 <img src="./reactBanner.png" alt="Header" width="100%" />
 
+
+
+- 🌱 I’m currently learning **TypeScript and Next.js**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing](https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing)
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim-Arefin&theme=react&hide_border=true&border_radius=0&card_width=483" alt="GitHub Streak" />
   </a>
 </div>
-
-- 🌱 I’m currently learning **TypeScript and Next.js**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing](https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -23,6 +23,11 @@ I am a dependable and committed individual with a keen interest and a firm under
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahim-Arefin&theme=react&show_icons=true" alt="Anurag's GitHub Stats">
+</p>
+
+
 <h2 align="center">My Skills:</h2>
 
 <p align="center">
@@ -41,15 +46,13 @@ I am a dependable and committed individual with a keen interest and a firm under
   </a>
 </p>
 
-
-
-
-
 <h2 align="center">Connect with me:</h2>
+
 <p align="center">
 <a href="https://linkedin.com/in/fahim-arefin-854396288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahim-arefin-854396288" height="30" width="40" /></a>
 <a href="https://fb.com/fahim.arefin.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahim.arefin.16" height="30" width="40" /></a>
 </p>
+
 
 
 

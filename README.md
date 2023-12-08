@@ -34,9 +34,6 @@ I am a dependable and committed individual with a keen interest and a firm under
 </p>
 
 
-
-
-
 <h2 align="center">My Skills:</h2>
 
 <p align="center">
@@ -66,6 +63,9 @@ I am a dependable and committed individual with a keen interest and a firm under
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim-Arefin&theme=react&hide_title=true&hide_rank=true" alt="Repositories Per Language">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Arefin&layout=donut-vertical" alt="Top Languages">
 </p>
 
 

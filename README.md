@@ -1,4 +1,4 @@
-<img src="./bannerImage.png" alt="Header" width="100%" />
+<img src="./reactBanner.png" alt="Header" width="100%" />
 
 <div align="center">
   <a href="https://git.io/streak-stats">

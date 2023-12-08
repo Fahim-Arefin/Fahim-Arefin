@@ -56,8 +56,8 @@ I am a dependable and committed individual with a keen interest and a firm under
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-arefin&show_icons=true&locale=en&layout=compact" alt="fahim-arefin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahim-Arefin&show_icons=true&locale=en&layout=compact" alt="fahim-arefin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim-arefin&show_icons=true&locale=en" alt="fahim-arefin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fahim-Arefin&show_icons=true&locale=en" alt="fahim-arefin" /></p>
 
 

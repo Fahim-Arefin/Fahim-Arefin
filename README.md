@@ -6,11 +6,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing](https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing)
 
-<div align="center">
+
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim-Arefin&theme=react&hide_border=true&border_radius=0&card_width=483" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim-Arefin&theme=react&border_radius=4.2&card_width=583" alt="GitHub Streak" width="583" height="300">
   </a>
-</div>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Header" height="350px" width="100%" />
+<img src="./banner.png" alt="Header" height="300px" width="100%" />
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 

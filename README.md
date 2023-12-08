@@ -1,17 +1,29 @@
 <img src="./reactBanner.png" alt="Header" width="100%" />
 
+# Hello 😊
+
+I am a dependable and committed individual with a keen interest and a firm understanding of web technology. I am actively seeking an opportunity to kickstart my career, eager to expand my skills as a professional web developer. Recently, I acquired proficiency in MERN stack technologies and applied my knowledge through various projects. I possess logical thinking skills and adaptability. Additionally, I thrive in collaborative environments, prepared to make meaningful contributions as a team player.
 
 
-- 🌱 I’m currently learning **TypeScript and Next.js**
+- 📍 Currently residing in Dhaka, Bangladesh
+- 📬 Reach out to me at minhajul.arefin.fahim@gmail.com
+- 🛠️ Already proficient in MERN technologies
+- 🚀 Currently enhancing my skills with TypeScript and Next.js
+- 🤝 I'm available for collaboration on React and Node projects.
+- 📄 Explore my resume here: [https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing](https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing](https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing)
 
 
-<p align="center">
+<p align="center" style="margin-bottom: 200px;">
+  My Stats
+</p>
+
+<p align="center" style="margin-top: 200px; margin-bottom: 200px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim-Arefin&theme=react&border_radius=4.2&card_width=583" alt="GitHub Streak" width="583" height="300">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim-Arefin&theme=react&border_radius=4.2&card_width=600" alt="GitHub Streak" width="683" height="auto">
   </a>
 </p>
+
 
 
 <h3 align="left">Connect with me:</h3>

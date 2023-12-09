@@ -1,6 +1,6 @@
 <img src="./reactBanner.png" alt="Header" width="100%" />
 
-<h2 align="left" style="margin-top: 200px; margin-bottom: 200px;">ℹ About Me</h2>
+<h2 align="center" style="padding: 200px; margin-top: 200px; margin-bottom: 200px;">ℹ About Me</h2>
 
 I am a dependable and committed individual with a keen interest and a firm understanding of web technology. I am actively seeking an opportunity to kickstart my career, eager to expand my skills as a professional web developer. Recently, I acquired proficiency in MERN stack technologies and applied my knowledge through various projects. I possess logical thinking skills and adaptability. Additionally, I thrive in collaborative environments, prepared to make meaningful contributions as a team player.
 
@@ -15,7 +15,7 @@ I am a dependable and committed individual with a keen interest and a firm under
 
 
 
-<h2 align="center" style="margin-top: 200px; margin-bottom: 200px;">📌 My Statistics </h2>
+<h2 align="center" style="padding: 200px; margin-top: 200px; margin-bottom: 200px;">📌 My Statistics </h2>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim-Arefin&theme=react" alt="GitHub Profile Details">

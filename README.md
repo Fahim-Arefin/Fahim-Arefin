@@ -32,7 +32,9 @@ I am a dependable and committed individual with a keen interest and a firm under
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahim-Arefin&theme=react" alt="GitHub Profile Summary Stats">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahim-Arefin&theme=react&utcOffset=8" alt="GitHub Productive Time">
 </p>
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim-Arefin&theme=react&hide_title=true&hide_rank=true" alt="Repositories Per Language">
+</p>
 
 <h2 align="center">My Skills:</h2>
 
@@ -59,14 +61,11 @@ I am a dependable and committed individual with a keen interest and a firm under
 <a href="https://fb.com/fahim.arefin.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahim.arefin.16" height="30" width="40" /></a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim-Arefin&theme=react)
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim-Arefin&theme=react&hide_title=true&hide_rank=true" alt="Repositories Per Language">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Arefin&layout=donut-vertical" alt="Top Languages">
-</p>
+
+
+
+
 
 
 

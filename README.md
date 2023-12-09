@@ -1,6 +1,6 @@
 <img src="./reactBanner.png" alt="Header" width="100%" />
 
-<h2 align="left">ℹ About Me</h2>
+<h2 align="left" style="margin-top: 200px; margin-bottom: 200px;">ℹ About Me</h2>
 
 I am a dependable and committed individual with a keen interest and a firm understanding of web technology. I am actively seeking an opportunity to kickstart my career, eager to expand my skills as a professional web developer. Recently, I acquired proficiency in MERN stack technologies and applied my knowledge through various projects. I possess logical thinking skills and adaptability. Additionally, I thrive in collaborative environments, prepared to make meaningful contributions as a team player.
 
@@ -15,7 +15,7 @@ I am a dependable and committed individual with a keen interest and a firm under
 
 
 
-<h2 align="center">📌 My Statistics </h2>
+<h2 align="center" style="margin-top: 200px; margin-bottom: 200px;">📌 My Statistics </h2>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim-Arefin&theme=react" alt="GitHub Profile Details">
@@ -37,7 +37,7 @@ I am a dependable and committed individual with a keen interest and a firm under
 </p>
 
 
-<h2 align="center">🧠 My Skills</h2>
+<h2 align="center" style="margin-top: 200px; margin-bottom: 200px;">🧠 My Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -55,7 +55,7 @@ I am a dependable and committed individual with a keen interest and a firm under
   </a>
 </p>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center" style="margin-top: 200px; margin-bottom: 200px;">🌐 Connect With Me</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/fahim-arefin-854396288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahim-arefin-854396288" height="30" width="40" /></a>

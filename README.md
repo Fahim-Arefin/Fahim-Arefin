@@ -1,6 +1,6 @@
 <img src="./reactBanner.png" alt="Header" width="100%" />
 
-<h2 align="center">ℹ About Me</h2>
+<h2 align="left">ℹ About Me</h2>
 
 I am a dependable and committed individual with a keen interest and a firm understanding of web technology. I am actively seeking an opportunity to kickstart my career, eager to expand my skills as a professional web developer. Recently, I acquired proficiency in MERN stack technologies and applied my knowledge through various projects. I possess logical thinking skills and adaptability. Additionally, I thrive in collaborative environments, prepared to make meaningful contributions as a team player.
 
@@ -37,7 +37,7 @@ I am a dependable and committed individual with a keen interest and a firm under
 </p>
 
 
-<h2 align="">🧠 My Skills</h2>
+<h2 align="center">🧠 My Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">

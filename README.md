@@ -56,27 +56,94 @@ My professional experience includes custom CMS development, dynamic page builder
 
 ## 🚀 Featured Projects
 
-### Shanta Life Insurance
+### 01 — Shanta Life Insurance
 
-[Visit Website](https://shantalife.com/)
+**Life Insurance Website & Content Management System**
 
-A full-featured insurance website with dynamic CMS page management, bilingual content, interactive premium calculations for 13 insurance plans, and automated personalized PDF quotations.
+A comprehensive insurance platform that simplifies insurance discovery, premium calculations, and quotation generation while empowering staff to independently manage their website.
 
-### Noe Talk — AI Learning Platform
+**Key Features**
 
-An interactive learning platform featuring voice-enabled AI avatars for language practice, powered by Azure and ChatGPT, alongside a teacher discovery and lesson booking system.
+- Dynamic page builder with reusable content blocks.
+- Bilingual content management in English and Bengali.
+- Draft previews and independent page publishing.
+- Interactive premium calculator supporting 13 insurance plans.
+- Personalized PDF quotation generation for 7 insurance plans.
+- Automated quotation delivery through email.
+- Payment gateway integration.
+- Optimized data caching and automatic content revalidation.
 
-### XynoLab
+**Tech Stack**
 
-[Visit Website](https://xynolab.com/)
+`Next.js` `TypeScript` `Payload CMS` `Tailwind CSS` `REST API`
 
-An interactive corporate website showcasing software solutions, case studies, articles, and business services.
+[![Visit Website](https://img.shields.io/badge/Visit_Website-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shantalife.com/)
 
-### Sagar Rope
+---
 
-[Visit Website](https://sagar-rope.com/)
+### 02 — Noe Talk
 
-An SEO-friendly manufacturing website showcasing industrial products, technical specifications, and manufacturing capabilities.
+**AI-Powered Learning & Tutor Booking Platform**
+
+An interactive educational platform combining conversational AI with personalized learning and professional tutor booking.
+
+**Key Features**
+
+- Interactive AI avatars that listen and respond to users.
+- Real-time voice-based language practice.
+- Azure services and ChatGPT integration.
+- Professional tutor discovery and lesson scheduling.
+- Multiple learning categories, including languages and AI.
+
+**Tech Stack**
+
+`React` `Azure` `ChatGPT` `Conversational AI`
+
+---
+
+### 03 — XynoLab
+
+**Corporate Website & Software Solutions Platform**
+
+A modern, interactive corporate website showcasing software products, business solutions, professional services, and industry insights.
+
+**Key Features**
+
+- Dynamic product and service pages.
+- Self-service content and page management.
+- Interactive GSAP animations.
+- Articles, case studies, news, and search functionality.
+- Responsive layouts and performance optimization.
+- SEO-friendly website architecture.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Payload CMS` `Tailwind CSS` `GSAP`
+
+[![Visit Website](https://img.shields.io/badge/Visit_Website-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xynolab.com/)
+
+---
+
+### 04 — Sagar Rope
+
+**Industrial Manufacturing Website**
+
+A performance-optimized corporate platform designed to showcase industrial rope products and manufacturing capabilities to local and international customers.
+
+**Key Features**
+
+- Comprehensive product catalogue.
+- Detailed product specifications.
+- Industry-specific information pages.
+- Dynamic content and page management.
+- Responsive and SEO-friendly design.
+- Optimized images and data caching.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Payload CMS` `Tailwind CSS` `GSAP`
+
+[![Visit Website](https://img.shields.io/badge/Visit_Website-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sagar-rope.com/)
 
 ## 🧠 Technical Skills
 
@@ -117,6 +184,9 @@ An SEO-friendly manufacturing website showcasing industrial products, technical 
   </a>
   <a href="mailto:minhajul.arefin.fahim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=%2B8801814221195">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://fb.com/fahim.arefin.16">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />

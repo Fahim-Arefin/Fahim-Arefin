@@ -1,73 +1,133 @@
 <img src="./reactBanner.png" alt="Header" width="100%" />
 
-<h2 align="center" style="padding: 200px; margin-top: 200px; margin-bottom: 200px;">ℹ About Me</h2>
+<h1 align="center">Hi, I'm Minhajul Arefin Fahim 👋</h1>
 
-I am a dependable and committed individual with a keen interest and a firm understanding of web technology. I am actively seeking an opportunity to kickstart my career, eager to expand my skills as a professional web developer. Recently, I acquired proficiency in MERN stack technologies and applied my knowledge through various projects. I possess logical thinking skills and adaptability. Additionally, I thrive in collaborative environments, prepared to make meaningful contributions as a team player.
+<h3 align="center">
+Software Engineer | Full-Stack Developer | React & Next.js
+</h3>
 
+## ℹ️ About Me
 
-- 📍 Currently residing in Dhaka, Bangladesh
-- 📬 Reach out to me at minhajul.arefin.fahim@gmail.com
-- 🛠️ Already proficient in MERN technologies
-- 🚀 Currently enhancing my skills with TypeScript and Next.js
-- 🤝 I'm available for collaboration on React and Node projects.
-- 📄 Explore my resume here: [https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing](https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing)
+I'm a Software Engineer with 3 years of software development experience,
+specializing in React, Next.js, TypeScript, and Payload CMS, with a solid
+foundation in MERN stack development.
 
+I build responsive, SEO-friendly, and performance-optimized web
+applications, transforming complex business requirements into
+user-friendly digital solutions.
 
+My professional experience includes custom CMS development, dynamic
+page builders, caching strategies, third-party API integrations,
+and AI-powered conversational applications.
 
+- 💼 Software Engineer at XynoLab
+- 📍 Based in Dhaka, Bangladesh
+- 🎓 B.Sc. in CSE, United International University
+- ⚡ Passionate about performance optimization and scalable architecture
+- 🤖 Experienced in developing AI-powered interactive applications
+- 🤝 Open to professional opportunities and collaboration
+- 📬 minhajul.arefin.fahim@gmail.com
+- 📄 [View My Resume](https://drive.google.com/drive/folders/13kfMv2zPc8EX1Y5ihFPnTdRQGuCYGooV?usp=sharing)
 
-<h2 align="center" style="padding: 200px; margin-top: 200px; margin-bottom: 200px;">📌 My Statistics </h2>
+## 💼 Professional Expertise
+
+- Full-stack web application development
+- Dynamic page builders and content management with Payload CMS
+- Next.js data caching and tag-based revalidation
+- Image optimization and API cost optimization
+- Responsive, pixel-perfect Figma-to-code implementation
+- SEO and website performance optimization
+- Interactive web animations using GSAP
+- AI avatar, voice interaction and ChatGPT integration
+- Client communication, code review and mentoring
+
+## 🚀 Featured Projects
+
+### Shanta Life Insurance
+[Visit Website](https://shantalife.com/)
+
+A full-featured insurance website with dynamic CMS page management,
+bilingual content, interactive premium calculations for 13 insurance
+plans, and automated personalized PDF quotations.
+
+### Noe Talk — AI Learning Platform
+
+An interactive learning platform featuring voice-enabled AI avatars
+for language practice, powered by Azure and ChatGPT, alongside a
+teacher discovery and lesson booking system.
+
+### XynoLab
+[Visit Website](https://xynolab.com/)
+
+An interactive corporate website showcasing software solutions,
+case studies, articles, and business services.
+
+### Sagar Rope
+[Visit Website](https://sagar-rope.com/)
+
+An SEO-friendly manufacturing website showcasing industrial products,
+technical specifications, and manufacturing capabilities.
+
+## 🧠 Technical Skills
+
+### Languages & Frontend
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim-Arefin&theme=react" alt="GitHub Profile Details">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,redux" />
 </p>
 
+### Backend & Databases
 
-<p align="center" style="margin-top: 200px; margin-bottom: 200px;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim-Arefin&theme=react&border_radius=4.2&card_width=583" alt="GitHub Streak" width="583" height="auto">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vite,postman,figma,vscode,azure" />
+</p>
+
+### Additional Expertise
+
+- **CMS:** Payload CMS
+- **State Management:** Redux, TanStack Query
+- **Animation:** GSAP, ScrollTrigger, Framer Motion
+- **Next.js:** App Router, SSR, SSG, ISR, Server Components, Server Actions
+- **Backend:** REST APIs, JWT, RBAC, Mongoose
+- **Optimization:** Data caching, cache invalidation, image optimization, SEO
+- **AI Integration:** Azure services, ChatGPT, conversational AI
+- **AI Development Tools:** Claude Code, Codex, Cursor
+
+## 📌 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim-Arefin&theme=react" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fahim-Arefin&theme=react&border_radius=4.2&card_width=583" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahim-Arefin&theme=react" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahim-Arefin&theme=react&utcOffset=6" alt="GitHub Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim-Arefin&theme=react" alt="Repositories Per Language" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/minhajul-arefin-fahim-854396288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:minhajul.arefin.fahim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://fb.com/fahim.arefin.16">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahim-Arefin&theme=react" alt="GitHub Profile Summary Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahim-Arefin&theme=react&utcOffset=8" alt="GitHub Productive Time">
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim-Arefin&theme=react&hide_title=true&hide_rank=true" alt="Repositories Per Language">
-</p>
-
-
-<h2 align="center" style="margin-top: 200px; margin-bottom: 200px;">🧠 My Skills</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,tailwind,redux,git" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,firebase,figma,vite,postman" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,py" />
-  </a>
-</p>
-
-<h2 align="center" style="margin-top: 200px; margin-bottom: 200px;">🌐 Connect With Me</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/minhajul-arefin-fahim-854396288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahim-arefin-854396288" height="30" width="40" /></a>
-<a href="https://fb.com/fahim.arefin.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahim.arefin.16" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-
-
-
-
-

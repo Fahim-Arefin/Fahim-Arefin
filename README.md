@@ -1,4 +1,4 @@
-<img src="./reactBanner.png" alt="Header" width="100%" />
+<img src="./developer-banner.webp" alt="Minhajul Arefin Fahim - Software Engineer" width="100%" />
 
 <h1 align="center">Hi, I'm Minhajul Arefin Fahim 👋</h1>
 

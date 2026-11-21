@@ -8,17 +8,11 @@ Software Engineer | Full-Stack Developer | React & Next.js
 
 ## ℹ️ About Me
 
-I'm a Software Engineer with 3 years of software development experience,
-specializing in React, Next.js, TypeScript, and Payload CMS, with a solid
-foundation in MERN stack development.
+I'm a Software Engineer with 3 years of software development experience, specializing in React, Next.js, TypeScript, and Payload CMS, with a solid foundation in MERN stack development.
 
-I build responsive, SEO-friendly, and performance-optimized web
-applications, transforming complex business requirements into
-user-friendly digital solutions.
+I build responsive, SEO-friendly, and performance-optimized web applications, transforming complex business requirements into user-friendly digital solutions.
 
-My professional experience includes custom CMS development, dynamic
-page builders, caching strategies, third-party API integrations,
-and AI-powered conversational applications.
+My professional experience includes custom CMS development, dynamic page builders, caching strategies, third-party API integrations, and AI-powered conversational applications.
 
 - 💼 Software Engineer at XynoLab
 - 📍 Based in Dhaka, Bangladesh
@@ -41,32 +35,48 @@ and AI-powered conversational applications.
 - AI avatar, voice interaction and ChatGPT integration
 - Client communication, code review and mentoring
 
+## 📌 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim-Arefin&theme=react" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fahim-Arefin&theme=react&border_radius=4.2&card_width=583" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahim-Arefin&theme=react" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahim-Arefin&theme=react&utcOffset=6" alt="GitHub Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim-Arefin&theme=react" alt="Repositories Per Language" />
+</p>
+
 ## 🚀 Featured Projects
 
 ### Shanta Life Insurance
+
 [Visit Website](https://shantalife.com/)
 
-A full-featured insurance website with dynamic CMS page management,
-bilingual content, interactive premium calculations for 13 insurance
-plans, and automated personalized PDF quotations.
+A full-featured insurance website with dynamic CMS page management, bilingual content, interactive premium calculations for 13 insurance plans, and automated personalized PDF quotations.
 
 ### Noe Talk — AI Learning Platform
 
-An interactive learning platform featuring voice-enabled AI avatars
-for language practice, powered by Azure and ChatGPT, alongside a
-teacher discovery and lesson booking system.
+An interactive learning platform featuring voice-enabled AI avatars for language practice, powered by Azure and ChatGPT, alongside a teacher discovery and lesson booking system.
 
 ### XynoLab
+
 [Visit Website](https://xynolab.com/)
 
-An interactive corporate website showcasing software solutions,
-case studies, articles, and business services.
+An interactive corporate website showcasing software solutions, case studies, articles, and business services.
 
 ### Sagar Rope
+
 [Visit Website](https://sagar-rope.com/)
 
-An SEO-friendly manufacturing website showcasing industrial products,
-technical specifications, and manufacturing capabilities.
+An SEO-friendly manufacturing website showcasing industrial products, technical specifications, and manufacturing capabilities.
 
 ## 🧠 Technical Skills
 
@@ -98,25 +108,6 @@ technical specifications, and manufacturing capabilities.
 - **Optimization:** Data caching, cache invalidation, image optimization, SEO
 - **AI Integration:** Azure services, ChatGPT, conversational AI
 - **AI Development Tools:** Claude Code, Codex, Cursor
-
-## 📌 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim-Arefin&theme=react" alt="GitHub Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fahim-Arefin&theme=react&border_radius=4.2&card_width=583" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahim-Arefin&theme=react" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fahim-Arefin&theme=react&utcOffset=6" alt="GitHub Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim-Arefin&theme=react" alt="Repositories Per Language" />
-</p>
 
 ## 🌐 Connect With Me
 
